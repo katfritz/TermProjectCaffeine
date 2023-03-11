@@ -1,5 +1,5 @@
 # TermProjectCaffeine
-Focused on the dataset "Caffeine Content of Drinks." Includes a data and metadata profile and a suggested repository profile. This repository includes:
+Focused on the dataset "Caffeine Content of Drinks." This repository includes:
 
 (1) A Dataset for "Caffine Content of Drinks." I provided 2 types of formats: CSV and XLS. The original file was downloaded is CSV.
 
