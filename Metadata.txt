@@ -1,0 +1,37 @@
+<resource xmlns:xsi="https://www.kaggle.com/datasets/heitornunes/caffeine-content-of-drinks" xmlns="https://www.kaggle.com/datasets/heitornunes/caffeine-content-of-drinks/download?datasetVersionNumber=1" xsi:schemaLocation="https://www.kaggle.com/datasets/heitornunes/caffeine-content-of-drinks/download?datasetVersionNumber=1">
+<identifier identifierType="URL">10.5072/D3P26Q35R-Test</identifier>
+<creators>
+<creator>
+<creatorName nameType="Personal">Nunes, Heitor</creatorName>
+<givenName>Heitor</givenName>
+<familyName>Nunes</familyName>
+</creator>
+<creator>
+<creatorName nameType="Organizational">Caffeine Informer</creatorName>
+</creator>
+</creators>
+<titles>
+<title xml:lang="en">Caffeine Content of Drinks</title>
+<subtitle xml:lang="en">Find caffeine amounts and calories of most drink brands and types.</subtitle>
+</titles>
+<publisher xml:lang="en">Kaggle</publisher>
+<publicationYear>2022</publicationYear>
+<subjects>
+<subject xml:lang="en">Caffeine</subject>
+<subject xml:lang="en">Health</subject>
+<subject xml:lang="en">Coffee</subject>
+<subject xml:lang="en">Tea</subject>
+<subject xml:lang="en">Caffeinated Drinks</subject>
+<subject xml:lang="en">Nutrition</subject>
+<subject xml:lang="en">Drugs</subject>
+<subject xml:lang="en">Caffeine</subject>
+<subject xml:lang="en">Caffeine Content of Drinks</subject>
+<subject xml:lang="en">Kaggle</subject>
+</subjects>
+<language>en</language>
+<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+<version>1.0</version>
+<descriptions>
+<description xml:lang="en" descriptionType="Abstract">List of drinks that generally contains caffeine. Some instances are not drinks exactly. Ground coffee or tea leafs would produce that amount of Volume (ml) if prepared according to the provider. They don't have calories since you can control the sugar level.</description>
+</descriptions>
+</resource>
